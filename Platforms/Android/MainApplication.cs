@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace MAUI_Grid2Ex;
+namespace MAUI_Layout_Grid2Ex;
 
 [Application]
 public class MainApplication : MauiApplication

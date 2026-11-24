@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
-  <assemblyIdentity version="1.0.0.0" name="MAUI_Grid2Ex.WinUI.app"/>
+  <assemblyIdentity version="1.0.0.0" name="MAUI_Layout_Grid2Ex.WinUI.app"/>
 
   <application xmlns="urn:schemas-microsoft-com:asm.v3">
     <windowsSettings>

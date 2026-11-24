@@ -1,7 +1,7 @@
 ﻿using Foundation;
 using Microsoft.Maui;
 
-namespace MAUI_Grid2Ex;
+namespace MAUI_Layout_Grid2Ex;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

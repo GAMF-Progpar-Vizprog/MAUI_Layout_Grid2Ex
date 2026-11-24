@@ -1,4 +1,4 @@
-﻿namespace MAUI_Grid2Ex;
+﻿namespace MAUI_Layout_Grid2Ex;
 
 public static class MauiProgram
 {
